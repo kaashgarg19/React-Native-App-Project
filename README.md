@@ -33,7 +33,8 @@ Blood Donation is a mobile based application. By using this application the user
  <BR>
 2.- USER INTERFACE IMPLEMENTATION
  <BR>
-   
+  ![image](https://user-images.githubusercontent.com/103975775/173389032-5d3de6c2-6bb7-4c20-b497-8239a8c14960.png)
+ 
  <BR>
    
 
