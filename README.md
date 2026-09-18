@@ -1,20 +1,26 @@
-# Blood Donation App — React Native
+# Blood Donation Mobile App
 
-This was one of my earlier React Native projects. The idea was to build a simple mobile application that could connect people looking to donate blood with people searching for a particular blood group.
+This was one of my earlier React Native projects. I built a mobile-app prototype around the idea of connecting blood donors with people looking for a particular blood group.
 
-## Main features
-- Donor and seeker registration
-- Blood-group based donor information
-- Firebase-backed data storage
-- Mobile navigation between screens
+## What the app does
 
-## Technologies
+- allows a user to register as a donor or seeker
+- stores user information using Firebase
+- lets users look through donor information by blood group
+- uses a multi-screen React Native interface
+
+## What I worked with
+
 React Native · JavaScript · Firebase
 
-## What I learned
+## Project structure
 
-The project gave me practical experience with mobile UI, navigation, storing application data and connecting a React Native application to a backend service.
+The main application code is in [App.js](App.js), with the supporting screens and components in the repository.
+
+The screenshots in the repository are from the original project and are kept because they show how the interface looked during development.
 
 ## Project status
 
-This is an earlier academic/development project. It is kept in the repository as part of my software-development history rather than presented as a current production application.
+This is an older coursework/prototype project. It is not presented as a production medical or emergency-service application.
+
+The project is useful as a record of my early mobile-development work and my experience connecting a React Native interface to a backend service.
