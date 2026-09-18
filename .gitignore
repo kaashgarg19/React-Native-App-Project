@@ -1,14 +1,17 @@
-node_modules/**/*
-.expo/*
+node_modules/
+.expo/
+web-build/
+web-report/
 npm-debug.*
 *.jks
 *.p8
 *.p12
 *.key
 *.mobileprovision
-*.orig.*
-web-build/
-web-report/
 
-# macOS
+.env
+.env.*
+!.env.example
+
 .DS_Store
+Thumbs.db
